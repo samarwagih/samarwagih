@@ -27,7 +27,7 @@ Python • R • Bash
 **Tools:**  
 Git • GitHub • Linux • Jupyter Notebook • Google Colab • VS Code • Oracle VM VirtualBox • Anaconda
 
-## 🌱 Currently
+## 📍 Currently
 
 I'm developing my skills in **bioinformatics, computational biology, programming, and biological data analysis**.
 
