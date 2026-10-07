@@ -33,7 +33,7 @@ I'm developing my skills in **bioinformatics, computational biology, programming
 
 ## 📚 Check my accounts
 
-💼 **LinkedIn:** [Samar Wagih](https://www.linkedin.com/in/samar-wagih/) — Professional profile and career highlights
+💼 **LinkedIn:** [Samar Wagih](https://www.linkedin.com/in/samar-wagih/) 
 
 ## 💻 Tech Stack
 
