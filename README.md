@@ -29,7 +29,7 @@ Git • GitHub • Linux • Jupyter Notebook • Google Colab • VS Code • O
 
 ## 📍 Currently
 
-I'm developing my skills in **bioinformatics, computational biology, programming, and biological data analysis**.
+I'm developing my skills in **bioinformatics, computational biology, programming, biological data analysis, AI and Machine Learning**.
 
 ## 📚 Check my accounts
 
