@@ -3,7 +3,7 @@
 
 # Hi there 👋 I'm Samar Wagih
 
-## 🧬 About Me
+##  About Me
 
 ### 👩🏻‍🏫 Currently, I am a Junior Scientific Executive at HVD Egypt.
 
